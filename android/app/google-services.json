@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871968891803",
+    "project_id": "cloud-uha",
+    "storage_bucket": "cloud-uha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871968891803:android:08db5f74d97555fa02f73e",
+        "android_client_info": {
+          "package_name": "com.example.final_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaq4GfwCTtZ7u5ktKYELh8rUuyqGcEPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871968891803:android:6eb7a9338db1353a02f73e",
+        "android_client_info": {
+          "package_name": "com.uha.cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaq4GfwCTtZ7u5ktKYELh8rUuyqGcEPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
